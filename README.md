@@ -14,27 +14,27 @@ The dashboard provides insights into booking performance, revenue, vehicle types
 - Power Query
 - Microsoft Excel
 
-## Dashboard Screenshots
+## Dashboard Pages
 
 ### Overall
 
-![Overall Dashboard](screenshots/overall.png)
+Provides an overview of the main booking and revenue metrics.
 
 ### Vehicle Type
 
-![Vehicle Type Dashboard](screenshots/vehicle-type.png)
+Shows booking value, successful booking value, average distance, and total distance for different vehicle types.
 
 ### Revenue
 
-![Revenue Dashboard](screenshots/revenue.png)
+Analyzes booking value and distance travelled across different vehicle types.
 
 ### Cancellation
 
-![Cancellation Dashboard](screenshots/cancellation.png)
+Shows customer and driver cancellation reasons along with cancellation-related KPIs.
 
 ### Ratings
 
-![Ratings Dashboard](screenshots/rating.png)
+Shows driver rating information for different vehicle types.
 
 ## Key Metrics
 
@@ -74,19 +74,19 @@ The dataset is available in the `dataset` folder.
 
 ### Vehicle Type
 
-![Vehicle-Type](screenshots/vehicle-Type.png)
+![Vehicle Type Dashboard](screenshots/Vehicle-Type.png)
 
 ### Revenue
 
-![Revenue](screenshots/Revenue.png)
+![Revenue Dashboard](screenshots/Revenue.png)
 
 ### Cancellation
 
-![Cancellation](screenshots/Cancellation.png)
+![Cancellation Dashboard](screenshots/Cancellation.png)
 
 ### Ratings
 
-![Ratings](screenshots/Rating.png)
+![Ratings Dashboard](screenshots/Rating.png)
 
 ## Project Files
 
@@ -96,7 +96,7 @@ The dataset is available in the `dataset` folder.
 
 ## Author
 
-Siddheshwar Ghadage
+**Siddheshwar Ghadage**
 
 Computer Engineering Student  
 Nutan Maharashtra Institute of Engineering and Technology (NMIET)
