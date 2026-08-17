@@ -69,7 +69,7 @@ The dataset is available in the `dataset` folder.
 
 ### Vehicle Type
 
-![Vehicle Type](screenshots/Vehicle-Type.png)
+![Vehicle-Type](screenshots/Vehicle-Type.png)
 
 ### Revenue
 
