@@ -91,6 +91,7 @@ The dataset is available in the `dataset` folder.
 ## Project Files
 
 - `Ola_Booking_Analysis_PowerBI.pbix` - Power BI dashboard
+- `Ola_Analysis.sql` - SQL queries used for data analysis
 - `dataset/` - Dataset used for the project
 - `screenshots/` - Dashboard screenshots
 
