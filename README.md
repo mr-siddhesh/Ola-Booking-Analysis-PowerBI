@@ -14,22 +14,27 @@ The dashboard provides insights into booking performance, revenue, vehicle types
 - Power Query
 - Microsoft Excel
 
-## Dashboard Pages
+## Dashboard Screenshots
 
 ### Overall
-Provides an overview of the main booking and revenue metrics.
+
+![Overall Dashboard](screenshots/overall.png)
 
 ### Vehicle Type
-Shows booking value, successful booking value, average distance, and total distance for different vehicle types.
+
+![Vehicle Type Dashboard](screenshots/vehicle-type.png)
 
 ### Revenue
-Analyzes booking value and distance travelled across different vehicle types.
+
+![Revenue Dashboard](screenshots/revenue.png)
 
 ### Cancellation
-Shows customer and driver cancellation reasons along with cancellation-related KPIs.
+
+![Cancellation Dashboard](screenshots/cancellation.png)
 
 ### Ratings
-Shows driver rating information for different vehicle types.
+
+![Ratings Dashboard](screenshots/rating.png)
 
 ## Key Metrics
 
