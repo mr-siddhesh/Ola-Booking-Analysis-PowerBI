@@ -98,6 +98,3 @@ The dataset is available in the `dataset` folder.
 ## Author
 
 **Siddheshwar Ghadage**
-
-Computer Engineering Student  
-Nutan Maharashtra Institute of Engineering and Technology (NMIET)
